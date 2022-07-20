@@ -5,7 +5,7 @@ A complete Symfony, PHP Development environment that is very similar to producti
 Docker Compose based **Symfony development environment** with individual **App** _(Symfony app)_, **Nginx**, **Database** _(MySQL)_  services.
 
 ## Installation
-### Install Laravel
+### Install Symfony
 Clone the repo at your development machine. Go to your *Symfony Docker* directory. Then Run this
 ```
 sh install
